@@ -12,9 +12,9 @@ Pixelbrew is not an agency or consultancy. It is a public workbench for tools th
 
 ## Public Repos
 
-- [pb-suite](https://github.com/pixelbrew-studio/pb-suite) — local command suite for reviews, QA, copy checks, security passes, and release discipline.
-- [quote-locator](https://github.com/pixelbrew-studio/quote-locator) — TypeScript utility for locating claimed quotes inside source text.
-- [eval-metrics-ts](https://github.com/pixelbrew-studio/eval-metrics-ts) — dependency-light metrics for classification and ranking evaluations.
+- [pb-suite](https://pixelbrew.studio/work/pb-suite) ([GitHub](https://github.com/pixelbrew-studio/pb-suite)) — local command suite for reviews, QA, copy checks, security passes, and release discipline.
+- [quote-locator](https://pixelbrew.studio/work/quote-locator) ([GitHub](https://github.com/pixelbrew-studio/quote-locator)) — TypeScript utility for locating claimed quotes inside source text.
+- [eval-metrics-ts](https://pixelbrew.studio/work/eval-metrics-ts) ([GitHub](https://github.com/pixelbrew-studio/eval-metrics-ts)) — dependency-light metrics for classification and ranking evaluations.
 
 ## Flagship
 
