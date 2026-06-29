@@ -2,7 +2,7 @@
 
 Independent AI-native product lab for small tools, public experiments, and original software.
 
-Pixelbrew is not an agency or consultancy. It is a public workbench for tools that are narrow enough to understand, useful enough to reuse, and opinionated enough to carry a point of view.
+Pixelbrew is a studio, not an agency or consultancy. It is a public workbench for tools that are small enough to understand and opinionated enough to be worth reusing.
 
 ## What We Publish
 
@@ -21,7 +21,7 @@ Pixelbrew is not an agency or consultancy. It is a public workbench for tools th
 
 [Evalgist](https://evalgist.ai) is the current flagship: evidence-grounded AI evaluation software for privacy-sensitive document workflows. The founder and company context is anchored on the [Evalgist About page](https://evalgist.ai/about).
 
-Evalgist product code is company-owned and private. Pixelbrew publishes clean-room tools and patterns around the craft of building careful AI-native software without publishing Evalgist implementation details, prompts, fixtures, screenshots, audits, or internal findings.
+Evalgist product code is company-owned and private. Pixelbrew publishes clean-room tools and patterns around building careful AI-native software without publishing Evalgist implementation details, prompts, fixtures, screenshots, audits, or internal findings.
 
 ## Links
 
