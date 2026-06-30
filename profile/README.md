@@ -13,7 +13,7 @@ Pixelbrew is a studio, not an agency or consultancy. It is a public workbench fo
 ## Public Repos
 
 - [pb-suite](https://pixelbrew.studio/work/pb-suite) ([GitHub](https://github.com/pixelbrew-studio/pb-suite)) — local command suite for reviews, QA, copy checks, security passes, and release discipline.
-- [og-route-kit](https://github.com/pixelbrew-studio/og-route-kit) — code-rendered Open Graph image routes for Next.js: typed `next/og` endpoints from TSX card components.
+- [og-route-kit](https://pixelbrew.studio/work/og-route-kit) ([GitHub](https://github.com/pixelbrew-studio/og-route-kit)) — code-rendered Open Graph image routes for Next.js: typed `next/og` endpoints from TSX card components.
 - [quote-locator](https://pixelbrew.studio/work/quote-locator) ([GitHub](https://github.com/pixelbrew-studio/quote-locator)) — TypeScript utility for locating claimed quotes inside source text.
 - [eval-metrics-ts](https://pixelbrew.studio/work/eval-metrics-ts) ([GitHub](https://github.com/pixelbrew-studio/eval-metrics-ts)) — dependency-light metrics for classification and ranking evaluations.
 
